@@ -1,0 +1,5 @@
+{
+  "name": "DocExtract AI",
+  "description": "Extract key details like issue date, name, and expiry date from PDF and DOCX files using Gemini AI.",
+  "requestFramePermissions": []
+}
